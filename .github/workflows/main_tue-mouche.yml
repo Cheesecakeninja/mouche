@@ -49,5 +49,5 @@ jobs:
       with:
         app-name: 'tue-mouche'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_59eec461d68549e78f0149b33b61ec74 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_cd5cf27a67b84d22b74a772ae80e9f54 }}
         package: '*.war'
